@@ -1,0 +1,17 @@
+Test Case 1:
+Tengah malam adalah pada pukul 00:00.
+Study Group Basic akan diadakan pada pukul 19:00 hingga 21:00 pada hari Rabu.
+Kereta akan melewati stasiun Bandung pada pukul 00:11, 06:30, 13:45, dan 23:59.
+Adikku baru belajar menulis waktu, kemarin. Dia salah menuliskan waktu yang seharusnya 23:59 menjadi 25:69.
+
+Test Case 2:
+Aku memiliki uang 90 Ribu Rupiah.
+Aset lab Computing totalnya bernilai sekitar 300 Juta Rupiah.
+Rp12.000,00
+3 Ribu Juta bukanlah nominal yang valid.
+
+Test Case 3:
+ini email lab lab-computing@telkomuniversity.ac.id
+va@li.d adalah contoh email yang valid.
+tidak@valid dan tidak.valid adalah tidak valid.
+dan ini tidak.valid@juga
