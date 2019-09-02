@@ -1,0 +1,1 @@
+Untuk soal ini, langsung copy ke folder [Nama anda] dan rename menjadi jawaban1.ipynb dan kerjakan di file tersebut.
